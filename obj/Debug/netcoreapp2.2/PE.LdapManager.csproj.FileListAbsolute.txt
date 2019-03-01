@@ -1,0 +1,9 @@
+C:\Users\esch3030\Source\Repos\WS_AWP5\PE.LdapManager\bin\Debug\netcoreapp2.2\PE.LdapManager.deps.json
+C:\Users\esch3030\Source\Repos\WS_AWP5\PE.LdapManager\bin\Debug\netcoreapp2.2\PE.LdapManager.dll
+C:\Users\esch3030\Source\Repos\WS_AWP5\PE.LdapManager\bin\Debug\netcoreapp2.2\PE.LdapManager.pdb
+C:\Users\esch3030\Source\Repos\WS_AWP5\PE.LdapManager\obj\Debug\netcoreapp2.2\PE.LdapManager.csproj.CoreCompileInputs.cache
+C:\Users\esch3030\Source\Repos\WS_AWP5\PE.LdapManager\obj\Debug\netcoreapp2.2\PE.LdapManager.AssemblyInfoInputs.cache
+C:\Users\esch3030\Source\Repos\WS_AWP5\PE.LdapManager\obj\Debug\netcoreapp2.2\PE.LdapManager.AssemblyInfo.cs
+C:\Users\esch3030\Source\Repos\WS_AWP5\PE.LdapManager\obj\Debug\netcoreapp2.2\PE.LdapManager.dll
+C:\Users\esch3030\Source\Repos\WS_AWP5\PE.LdapManager\obj\Debug\netcoreapp2.2\PE.LdapManager.pdb
+C:\Users\esch3030\Source\Repos\WS_AWP5\PE.LdapManager\obj\Debug\netcoreapp2.2\PE.LdapManager.csprojAssemblyReference.cache

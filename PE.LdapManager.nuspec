@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>PELdapManager</id>
+    <version>1.0.0</version>
+    <title>PELdapManager</title>
+    <authors>Pole-Emploi.fr</authors>
+    <owners>Pole-Emploi.fr</owners>
+    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
+    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
+    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>My Package Description</description>
+    <releaseNotes>Summary of changes made in this release of the my package.</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>mypackage Tag1 Tag2</tags>
+    <dependencies>
+      <dependency id="System.DirectoryServices.Protocols" version="4.5.0"/>
+      </dependencies>
+  </metadata>
+</package>
